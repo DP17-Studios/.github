@@ -8,7 +8,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
 </p>
 
 <br/><br/>
@@ -20,6 +22,10 @@
   Think of us as the intersection of <i>art, code, and imagination</i>.  
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" />
+</p>
+
 <br/><br/>
 
 <h2 align="center">🚀 What We’re Building</h2>
@@ -29,6 +35,10 @@
   📝 <b>Xthreads Summarizer</b> – Turns threads into clean 5-point takeaways  
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
+</p>
+
 <br/><br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -36,25 +46,9 @@
   <img src="https://skillicons.dev/icons?i=python,cs,unity,react,nodejs,github,cpp,java" />
 </p>
 
-<br/><br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top" align="center">
-        <a href="https://github.com/DP17-Studios">
-          <img src="https://github-readme-stats.vercel.app/api?username=DP17-Studios&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-      <td width="50%" valign="top" align="center">
-        <a href="https://github.com/DP17-Studios">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP17-Studios&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+</p>
 
 <br/><br/>
 
@@ -74,8 +68,6 @@
   </a>
 </p>
 
-<br/><br/>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" />
 </p>
