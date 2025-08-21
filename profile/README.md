@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DP17-Studios&label=Studio%20views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+DP17+Studios!;Where+Creativity+Meets+Code+💡;Building+AI,+Games+,+and+Tools+🚀;" />
 </h1>
@@ -15,7 +11,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 </p>
 
----
+<br/><br/><br/><br/><br/>
 
 <h2 align="center">🌟 About Us</h2>
 <p align="center">
@@ -24,7 +20,7 @@
   Think of us as the intersection of <i>art, code, and imagination</i>.  
 </p>
 
----
+<br/><br/><br/><br/><br/>
 
 <h2 align="center">🚀 What We’re Building</h2>
 <p align="center">
@@ -33,14 +29,14 @@
   📝 <b>Xthreads Summarizer</b> – Turns threads into clean 5-point takeaways  
 </p>
 
----
+<br/><br/><br/><br/><br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,unity,react,nodejs,github,cpp,java" />
 </p>
 
----
+<br/><br/><br/><br/><br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
@@ -60,7 +56,7 @@
   </table>
 </div>
 
----
+<br/><br/><br/><br/><br/>
 
 <h2 align="center">✨ Let’s Connect</h2>
 <p align="center">
@@ -78,7 +74,7 @@
   </a>
 </p>
 
----
+<br/><br/><br/><br/><br/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" />
