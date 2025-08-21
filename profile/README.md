@@ -7,11 +7,7 @@
   <img height="22" alt="spark" src="https://media.tenor.com/4kI7i6TrZ8gAAAAi/sparkles-stars.gif"/>
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
-</p>
+
 
 <br/><br/>
 
@@ -22,9 +18,7 @@
   Think of us as the intersection of <i>art, code, and imagination</i>.  
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" />
-</p>
+
 
 <br/><br/>
 
@@ -35,9 +29,7 @@
   📝 <b>Xthreads Summarizer</b> – Turns threads into clean 5-point takeaways  
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
-</p>
+
 
 <br/><br/>
 
