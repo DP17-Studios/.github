@@ -1,4 +1,6 @@
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=DP17-Studios&label=Studio%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+DP17+Studios!;Where+Creativity+Meets+Code+💡;Building+AI,+Games+,+and+Tools+🚀;" />
@@ -15,39 +17,41 @@
 
 ---
 
-### 🌟 About Us  
-At **DP17 Studios**, we experiment, build, and dream.  
-We create **AI-powered tools**, prototype **games**, and design **experimental apps**.  
-Think of us as the intersection of *art, code, and imagination*.  
+<h2 align="center">🌟 About Us</h2>
+<p align="center">
+  At <b>DP17 Studios</b>, we experiment, build, and dream. <br/>
+  We create <b>AI-powered tools</b>, prototype <b>games</b>, and design <b>experimental apps</b>. <br/>
+  Think of us as the intersection of <i>art, code, and imagination</i>.  
+</p>
 
 ---
 
-### 🚀 What We’re Building  
-
-- 🧠 **100x Productivity Analyzer** – AI dev productivity dashboard  
-- 🎮 **NeuroPlay** – Experimental creative/game prototype  
-- 📝 **Xthreads Summarizer** – Turns threads into clean 5-point takeaways  
+<h2 align="center">🚀 What We’re Building</h2>
+<p align="center">
+  🧠 <b>100x Productivity Analyzer</b> – AI dev productivity dashboard <br/>
+  🎮 <b>NeuroPlay</b> – Experimental creative/game prototype <br/>
+  📝 <b>Xthreads Summarizer</b> – Turns threads into clean 5-point takeaways  
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,unity,react,nodejs,github,cpp,java" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <a href="https://github.com/DP17-Studios">
           <img src="https://github-readme-stats.vercel.app/api?username=DP17-Studios&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
         </a>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <a href="https://github.com/DP17-Studios">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP17-Studios&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
         </a>
@@ -58,7 +62,7 @@ Think of us as the intersection of *art, code, and imagination*.
 
 ---
 
-### ✨ Let’s Connect  
+<h2 align="center">✨ Let’s Connect</h2>
 <p align="center">
   <a href="https://twitter.com/kingslayer1758" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
