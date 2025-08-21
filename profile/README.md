@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Creative+Tech+Studio;Where+Ideas+Come+Alive+⚡;Blending+Art+%2B+Code+%2B+Imagination" alt="Typing Animation" />
 </h3>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">🌟 About Us</h2>
 <p align="center">
