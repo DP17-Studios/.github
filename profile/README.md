@@ -1,13 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+DP17+Studios!;Where+Creativity+Meets+Code+💡;Building+AI,+Games+,+and+Tools+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+DP17+Studios!;Where+Creativity+Meets+Code;Building+AI,+Games+,+and+Tools" />
 </h1>
 
 <h3 align="center">
-  A Creative Tech Studio
-  <img height="22" alt="spark" src="https://media.tenor.com/4kI7i6TrZ8gAAAAi/sparkles-stars.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Creative+Tech+Studio;Where+Ideas+Come+Alive+⚡;Blending+Art+%2B+Code+%2B+Imagination" alt="Typing Animation" />
 </h3>
-
-
 
 <br/><br/>
 
@@ -18,8 +15,6 @@
   Think of us as the intersection of <i>art, code, and imagination</i>.  
 </p>
 
-
-
 <br/><br/>
 
 <h2 align="center">🚀 What We’re Building</h2>
@@ -29,8 +24,6 @@
   📝 <b>Xthreads Summarizer</b> – Turns threads into clean 5-point takeaways  
 </p>
 
-
-
 <br/><br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -39,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
 </p>
 
 <br/><br/>
@@ -61,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
 </p>
